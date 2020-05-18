@@ -1,9 +1,13 @@
 {
   "name": "vue-confirm-conponent",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "license": "MIT",
-  "git repository":"",
+  "repository":{
+	  "type": "git",
+	  "url": "git@github.com:Icejundong/vue-confirm-component.git"
+  },
+  "keywords": ["vue2.x", "confirm"],
   "description": "询问框组件 confirm",
   "main": "lib/ice-confirm.umd.min.js",
   "scripts": {
