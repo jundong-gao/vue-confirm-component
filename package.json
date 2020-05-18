@@ -1,6 +1,6 @@
 {
   "name": "vue-confirm-component",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "private": false,
   "license": "MIT",
   "repository":{
@@ -9,7 +9,7 @@
   },
   "keywords": ["vue2.x", "confirm"],
   "description": "询问框组件 confirm",
-  "main": "lib/ice-confirm.umd.min.js",
+  "main": "lib/vue-confirm-component.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

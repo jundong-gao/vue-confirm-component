@@ -56,9 +56,9 @@
     .confirm{position: fixed; z-index: 999999; display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; left: 0; top: 0; background-color: rgba(0,0,0,0.5);}
     .confirm-box{width: 250px; background-color: #fff; border-radius: 8px; overflow: hidden; box-sizing: border-box;}
     .confirm-title{padding: 20px 10px 15px; box-sizing: border-box; font-size: #333; font-size: 16px; text-align: center; word-break: break-all;}
-    .confirm-operation{height: 45px; width: 100%; border-top: 0.5px solid #eee; box-sizing: border-box; display: flex; align-items: center; }
+    .confirm-operation{height: 45px; width: 100%; border-top: 1px solid #eee; box-sizing: border-box; display: flex; align-items: center; }
     .confirm-operation-btn{width: 50%; height: 100%; font-size: 16px; color: #444; box-sizing: border-box; flex-grow: 1; display: flex; align-items: center; justify-content: center;}
-    .confirm-operation-cancel{border-right: 0.5px solid #eee; color: #999;}
+    .confirm-operation-cancel{border-right: 1px solid #eee; color: #999;}
     .confirm-operation-confirm{color: slateblue;}
 
     .fade-in-enter-active{
