@@ -1,6 +1,6 @@
 {
-  "name": "vue-confirm-component",
-  "version": "0.1.7",
+  "name": "vue-confirm-next",
+  "version": "0.1.8",
   "private": false,
   "license": "MIT",
   "repository":{
@@ -9,11 +9,11 @@
   },
   "keywords": ["vue2.x", "confirm"],
   "description": "询问框组件 confirm",
-  "main": "lib/vue-confirm-component.umd.min.js",
+  "main": "lib/vue-confirm-next.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lib": "vue-cli-service build --target lib --name vue-confirm-component --dest lib src/plugins/confirm/index.js"
+    "lib": "vue-cli-service build --target lib --name vue-confirm-next --dest lib src/plugins/confirm/index.js"
   },
   "dependencies": {
     "core-js": "^3.6.4",

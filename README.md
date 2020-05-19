@@ -1,12 +1,12 @@
 ### 使用方法
 ```
-npm install vue-confirm-component --save
+npm install vue-confirm-next --save
 ```
 
 ### main.js
 ```js
-import 'vue-confirm-component/lib/vue-confirm-component.css'
-import vueConfirm from 'vue-confirm-component'
+import 'vue-confirm-next/lib/vue-confirm-next.css'
+import vueConfirm from 'vue-confirm-next'
 Vue.use(vueConfirm)
 ```
 
