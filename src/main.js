@@ -2,10 +2,9 @@ import Vue from 'vue'
 import App from './App.vue'
 
 Vue.config.productionTip = false
-
-import confirm from './plugins/confirm/index.js'
-Vue.use(confirm)
+import vueConfirm from './plugins/confirm/index.js'
+Vue.use(vueConfirm)
 
 new Vue({
-  render: h => h(App)
+  render: h => h(App),
 }).$mount('#app')
